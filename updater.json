@@ -1,0 +1,8 @@
+{
+    "TextEmoji": {
+        "minimumDiscordVersion": 126021,
+        "version": "1.0.0",
+        "build": "https://grzesiek11.stary.pc.pl/files/bin/aliucord_plugins/TextEmoji-latest.zip",
+        "changelog": "v1.0.0:\n- Initial release"
+    }
+}
