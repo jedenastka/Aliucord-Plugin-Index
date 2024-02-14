@@ -1,8 +1,8 @@
 {
     "TextEmoji": {
         "minimumDiscordVersion": 126021,
-        "version": "1.0.0",
+        "version": "1.0.1",
         "build": "https://grzesiek11.stary.pc.pl/files/bin/aliucord_plugins/TextEmoji-latest.zip",
-        "changelog": "v1.0.0:\n- Initial release"
+        "changelog": "v1.0.1\n:- Fix custom emoji reactions displaying as text\nv1.0.0:\n- Initial release"
     }
 }
