@@ -7,3 +7,4 @@ repositories over at my GitLab:
 
 - [TextEmoji](https://gitlab.com/Grzesiek11/textemoji-aliucord-plugin)
 - [Sed](https://gitlab.com/Grzesiek11/sed-aliucord-plugin)
+- [ForceNotifications](https://gitlab.com/Grzesiek11/forcenotifications-aliucord-plugin)
